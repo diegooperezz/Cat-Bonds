@@ -1,0 +1,11 @@
+WEB ORIGEN DATOS -> https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2
+
+He investigado los Term Sheets de las últimas emisiones de FloodSmart Re (ej. Series 2024-1) y aquí tienes los parámetros reales que debemos intentar imitar:
+
+Cobertura Geográfica: Cubre los 50 estados de EE. UU., DC, Puerto Rico y las Islas Vírgenes. (No solo Florida/Texas).
+
+Peligro Cubierto: Solo cubre inundaciones causadas por "Named Storms" (Tormentas con nombre: Huracanes y Tormentas Tropicales). OJO: No cubre inundaciones por lluvias torrenciales que no sean ciclones con nombre.
+
+Trigger: Es de tipo Indemnity (indemnizatorio). Paga según las pérdidas reales sufridas por el NFIP.
+
+Attachment Point (Punto de Activación): En la emisión 2024-1, el bono empieza a perder dinero si un solo evento causa más de $9,000 Millones en pérdidas al NFIP.

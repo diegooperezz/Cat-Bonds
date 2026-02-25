@@ -1,0 +1,16 @@
+# Ignorar archivos de datos pesados
+*.parquet
+*.parque
+
+# Ignorar el entorno virtual (IMPORTANTE: nunca se debe subir)
+entorno_amul/
+venv/
+env/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar configuraciones locales de editores
+.vscode/
+.idea/
